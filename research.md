@@ -33,7 +33,7 @@ with Anirban Mitra & Arnab Mukherji
 
 with Ingvild Almås & Johannes Haushofer
 
-*Journal of Development Economics, Forthcoming*
+*Journal of Development Economics, 2026*
 
 [NBER WP (July-23)](https://www.nber.org/papers/w25711) · [Published article (open access)](https://www.sciencedirect.com/science/article/pii/S0304387826001525) · [Replication files](https://data.mendeley.com/datasets/rxt4ns4c76/1)
 
