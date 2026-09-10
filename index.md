@@ -3,9 +3,6 @@ layout: default
 title: Home
 ---
 
-<p class="eyebrow">Professor of Economics</p>
-
-# Anders Kjelsrud
 
 <div class="introduction">
 <p>I am a Professor of Economics at Oslo Business School (OsloMet), and Professor II at the <a href="https://www.usn.no/english/">University of South-Eastern Norway</a> (USN).</p>
