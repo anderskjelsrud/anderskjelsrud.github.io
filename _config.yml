@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
 title: Anders Kjelsrud
-description: Professor of Economics
+description: Professor of Economics at Oslo Business School (OsloMet)
+url: "https://anderskjelsrud.github.io"
+baseurl: ""
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

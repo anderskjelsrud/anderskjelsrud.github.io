@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title != 'Home' %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+  <meta name="description" content="{{ site.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <a class="site-name" href="{{ '/' | relative_url }}">Anders Kjelsrud</a>
+    <nav aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}" {% if page.title == 'Home' %}aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/research.html' | relative_url }}" {% if page.title == 'Research' %}aria-current="page"{% endif %}>Research</a>
+      <a href="{{ '/data.html' | relative_url }}" {% if page.title == 'Data' %}aria-current="page"{% endif %}>Data</a>
+      <a href="{{ '/writing.html' | relative_url }}" {% if page.title == 'Other writing' %}aria-current="page"{% endif %}>Other writing</a>
+      <a href="/assets/anders-kjelsrud-cv.pdf">CV</a>
+    </nav>
+  </header>
+  <main id="main-content">{{ content }}</main>
+  <footer class="site-footer"><span>Anders Kjelsrud</span><a href="mailto:anderskjelsrud@gmail.com">Contact</a></footer>
+</body>
+</html>

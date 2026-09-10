@@ -1,24 +1,25 @@
 ---
 layout: default
+title: Home
 ---
+
+<p class="eyebrow">Professor of Economics</p>
 
 # Anders Kjelsrud
 
-I am a Professor of Economics at Oslo Business School
-(OsloMet), and Professor II at the University of
-South-Eastern Norway (USN).
+<div class="introduction">
+<p>I am a Professor of Economics at Oslo Business School (OsloMet), and Professor II at the <a href="https://www.usn.no/english/">University of South-Eastern Norway</a> (USN).</p>
+<p>PhD in Economics, University of Oslo, 2015.</p>
+</div>
 
-PhD in Economics, University of Oslo, 2015.
-
-## Research
-
-[Publications and working papers](https://sites.google.com/site/anderskjelsrud/home)
-
-## Data
-
-Research datasets, documentation, and download links
-will be available here.
+<div class="home-links">
+<a href="research.html"><strong>Research</strong><span>Working papers and publications →</span></a>
+<a href="data.html"><strong>Data</strong><span>Datasets and replication resources →</span></a>
+</div>
 
 ## Contact
 
-[anderskjelsrud@gmail.com](mailto:anderskjelsrud@gmail.com)
+[anderskjelsrud@gmail.com](mailto:anderskjelsrud@gmail.com)  
+[+47 932 66 338](tel:+4793266338)
+
+[Curriculum vitae](/assets/anders-kjelsrud-cv.pdf)
