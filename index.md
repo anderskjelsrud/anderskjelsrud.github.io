@@ -35,6 +35,14 @@ with Kalle Moene & Lore Vandewalle
 
 [Preprint](https://drive.google.com/file/d/1jyTKzUxPbmiIL3KoLX9RYgURLAzYIn36/view?usp=sharing) · [Appendix](https://drive.google.com/file/d/1PJky5MY5e0Oo_j9McyPLBT-kIshrwteF/view?usp=sharing) · [Replication files](https://doi.org/10.17632/9g9gnhmgpr.1)
 
+### A Comment on “Raising Health Awareness in Rural Communities: A Randomized Experiment in Bangladesh and India” by Siddique et al. (2024)
+
+with Abel Brodeur, Andreas Kotsadam & Ole Rogeberg, 2025
+
+*Review of Economics and Statistics*
+
+[Published article](https://direct.mit.edu/rest/article/108/5/1466/138996/A-Comment-on-Raising-Health-Awareness-in-Rural) · [IZA DP](https://www.iza.org/publications/dp/17783/a-comment-on-raising-health-awareness-in-rural-communities-a-randomized-experiment-in-bangladesh-and-india-by-siddique-et-al-2024)
+
 [View all research and publications →](research.html)
 
 ## Contact
