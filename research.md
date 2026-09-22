@@ -153,7 +153,9 @@ Abel Brodeur and 300+ others
 
 with Abel Brodeur, Andreas Kotsadam & Ole Rogeberg, 2025
 
-[IZA DP](https://www.iza.org/publications/dp/17783/a-comment-on-raising-health-awareness-in-rural-communities-a-randomized-experiment-in-bangladesh-and-india-by-siddique-et-al-2024)
+*Review of Economics and Statistics*
+
+[Published article](https://direct.mit.edu/rest/article/108/5/1466/138996/A-Comment-on-Raising-Health-Awareness-in-Rural) · [IZA DP](https://www.iza.org/publications/dp/17783/a-comment-on-raising-health-awareness-in-rural-communities-a-randomized-experiment-in-bangladesh-and-india-by-siddique-et-al-2024)
 
 ### Comment on “Food Insecurity and Mental Health of Women During COVID-19: Evidence from a Developing Country” by Rahman et al.
 
