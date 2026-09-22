@@ -9,11 +9,6 @@ title: Home
 <p>PhD in Economics, University of Oslo, 2015.</p>
 </div>
 
-<div class="home-links">
-<a href="research.html"><strong>Research</strong><span>Working papers and publications →</span></a>
-<a href="data.html"><strong>Data</strong><span>Datasets and replication resources →</span></a>
-</div>
-
 ## Selected publications
 
 ### The Income Elasticity of Nutrition: Evidence from Unconditional Cash Transfers in Kenya
