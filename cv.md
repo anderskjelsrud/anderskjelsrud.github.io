@@ -19,6 +19,9 @@ Supervisors: Jo Thori Lind and Ingvild Almås
 
 ## Professional appointments
 
+**2026-present: University of South-Eastern Norway (USN)**  
+Professor II
+
 **2023-present: Oslo Business School, OsloMet**  
 Professor
 
