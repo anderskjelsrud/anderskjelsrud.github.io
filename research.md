@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-<nav class="section-nav" aria-label="Research sections"><a href="#working-papers">Working papers</a><a href="#publications">Publications</a><a href="#replication-and-meta-papers">Replication and meta-papers</a></nav>
+<nav class="section-nav" aria-label="Research sections"><a href="#working-papers">Working papers</a><a href="#regular-publications">Regular Publications</a><a href="#replication-and-meta-papers">Replication and meta-papers</a></nav>
 
 ## Working papers
 
@@ -27,7 +27,7 @@ with Daniel Chen & Balasurya Sivakumar
 
 with Anirban Mitra & Arnab Mukherji
 
-## Publications
+## Regular Publications
 
 ### The Income Elasticity of Nutrition: Evidence from Unconditional Cash Transfers in Kenya
 
