@@ -17,7 +17,7 @@ with Ingvild Almås & Johannes Haushofer
 
 *Journal of Development Economics, 2026*
 
-[NBER WP (July-23)](https://www.nber.org/papers/w25711) · [Published article (open access)](https://www.sciencedirect.com/science/article/pii/S0304387826001525) · [Replication files](https://data.mendeley.com/datasets/rxt4ns4c76/1)
+[Published article (open access)](https://www.sciencedirect.com/science/article/pii/S0304387826001525) · [NBER WP (July-23)](https://www.nber.org/papers/w25711) · [Replication files](https://data.mendeley.com/datasets/rxt4ns4c76/1)
 
 ### A Comment on “Raising Health Awareness in Rural Communities: A Randomized Experiment in Bangladesh and India” by Siddique et al. (2024)
 
@@ -33,7 +33,7 @@ with Haakon Gjerløw, Andreas Kotsadam, Kalle Moene & Magnus Rasmussen
 
 *Journal of Economic History, 2026*
 
-[Preprint](https://drive.google.com/file/d/1fRMqq469i-MFCazlyxqpUwNn0ejEmLP0/view?usp=sharing) · [Published article](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/strikes-and-machines-investments-in-the-norwegian-interwarperiod/D7A32028AAE5C1973E6487D5732F2920)
+[Published article](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/strikes-and-machines-investments-in-the-norwegian-interwarperiod/D7A32028AAE5C1973E6487D5732F2920) · [Preprint](https://drive.google.com/file/d/1fRMqq469i-MFCazlyxqpUwNn0ejEmLP0/view?usp=sharing)
 
 
 

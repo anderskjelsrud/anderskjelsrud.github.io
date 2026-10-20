@@ -35,7 +35,7 @@ with Ingvild Almås & Johannes Haushofer
 
 *Journal of Development Economics, 2026*
 
-[NBER WP (July-23)](https://www.nber.org/papers/w25711) · [Published article (open access)](https://www.sciencedirect.com/science/article/pii/S0304387826001525) · [Replication files](https://data.mendeley.com/datasets/rxt4ns4c76/1)
+[Published article (open access)](https://www.sciencedirect.com/science/article/pii/S0304387826001525) · [NBER WP (July-23)](https://www.nber.org/papers/w25711) · [Replication files](https://data.mendeley.com/datasets/rxt4ns4c76/1)
 
 ### Strikes and machines: Investment in the Norwegian inter-war period
 
@@ -43,7 +43,7 @@ with Haakon Gjerløw, Andreas Kotsadam, Kalle Moene & Magnus Rasmussen
 
 *Journal of Economic History, 2026*
 
-[Preprint](https://drive.google.com/file/d/1fRMqq469i-MFCazlyxqpUwNn0ejEmLP0/view?usp=sharing) · [Published article](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/strikes-and-machines-investments-in-the-norwegian-interwarperiod/D7A32028AAE5C1973E6487D5732F2920)
+[Published article](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/strikes-and-machines-investments-in-the-norwegian-interwarperiod/D7A32028AAE5C1973E6487D5732F2920) · [Preprint](https://drive.google.com/file/d/1fRMqq469i-MFCazlyxqpUwNn0ejEmLP0/view?usp=sharing)
 
 ### The Political Competition over Life and Death - Evidence from Infant mortality in India
 
@@ -51,7 +51,7 @@ with Kalle Moene & Lore Vandewalle
 
 *Journal of Human Resource, Published online June, 2024, Forthcoming*
 
-[Preprint](https://drive.google.com/file/d/1jyTKzUxPbmiIL3KoLX9RYgURLAzYIn36/view?usp=sharing) · [Appendix](https://drive.google.com/file/d/1PJky5MY5e0Oo_j9McyPLBT-kIshrwteF/view?usp=sharing) · [Replication files](https://doi.org/10.17632/9g9gnhmgpr.1)
+[Appendix](https://drive.google.com/file/d/1PJky5MY5e0Oo_j9McyPLBT-kIshrwteF/view?usp=sharing) · [Preprint](https://drive.google.com/file/d/1jyTKzUxPbmiIL3KoLX9RYgURLAzYIn36/view?usp=sharing) · [Replication files](https://doi.org/10.17632/9g9gnhmgpr.1)
 
 ### Wheels of Power: Can free bicycles for schoolgirls free their mothers?
 
@@ -59,7 +59,7 @@ with Shabana Mitra & Kalle Moene
 
 *Economic Development and Cultural Change, 2024*
 
-[Published article](https://www.sciencedirect.com/org/science/article/abs/pii/S0013007924000425) · [Preprint](https://drive.google.com/file/d/1drpxF3n5QblTFFmuOjZquRKGfQXJOtZ1/view?usp=sharing) · [Appendix](https://drive.google.com/file/d/1r6GvaHTy0iG-_XtAKR5Mnc_IZgeMoDji/view?usp=sharing) · [Replication files](https://doi.org/10.7910/DVN/NMK9OL)
+[Published article](https://www.sciencedirect.com/org/science/article/abs/pii/S0013007924000425) · [Appendix](https://drive.google.com/file/d/1r6GvaHTy0iG-_XtAKR5Mnc_IZgeMoDji/view?usp=sharing) · [Preprint](https://drive.google.com/file/d/1drpxF3n5QblTFFmuOjZquRKGfQXJOtZ1/view?usp=sharing) · [Replication files](https://doi.org/10.7910/DVN/NMK9OL)
 
 ### Female employment and voter turnout - Evidence from India
 
@@ -67,7 +67,7 @@ with Andreas Kotsadam
 
 *Journal of Politics, 2023*
 
-[Published article](https://doi.org/10.1086/724966) · [Preprint](https://drive.google.com/file/d/1b-qNo6Jnm9egR6JvHSahOvhh1QW6EX_e/view?usp=share_link) · [Appendix](https://drive.google.com/file/d/1oQ7mYos1w3mD5zhLeYLQWtkW-7pE_pbz/view?usp=sharing) · [Replication files](https://doi.org/10.7910/DVN/QTGBKR)
+[Published article](https://doi.org/10.1086/724966) · [Appendix](https://drive.google.com/file/d/1oQ7mYos1w3mD5zhLeYLQWtkW-7pE_pbz/view?usp=sharing) · [Preprint](https://drive.google.com/file/d/1b-qNo6Jnm9egR6JvHSahOvhh1QW6EX_e/view?usp=share_link) · [Replication files](https://doi.org/10.7910/DVN/QTGBKR)
 
 ### Openness and the Welfare State - Risk and Income Effects in Protection without Protectionism
 
@@ -75,7 +75,7 @@ with Erling Barth, Henning Finseraas & Kalle Moene
 
 *European Journal of Political Economy, 2023*
 
-[Published article (open access)](https://www.sciencedirect.com/science/article/pii/S0176268023000496) · [Replication files](https://data.mendeley.com/datasets/54cbw226hd/1) · [IZA DP (Jan-21)](http://ftp.iza.org/dp14063.pdf)
+[Published article (open access)](https://www.sciencedirect.com/science/article/pii/S0176268023000496) · [IZA DP (Jan-21)](http://ftp.iza.org/dp14063.pdf) · [Replication files](https://data.mendeley.com/datasets/54cbw226hd/1)
 
 ### Hit by the Silk Road - How Wage Coordination in Europe Mitigates the China Shock
 
@@ -83,7 +83,7 @@ with Erling Barth, Henning Finseraas & Kalle Moene
 
 *Scandinavian Journal of Economics, 2023 (SJE Price for best paper of 2023)*
 
-[Published article (open access)](https://onlinelibrary.wiley.com/doi/10.1111/sjoe.12489) · [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fsjoe.12489&file=sjoe12489-sup-0001-supp_material.pdf) · [Replication files](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fsjoe.12489&file=sjoe12489-sup-0002-replication_files.zip) · [IZA DP (May-20)](http://ftp.iza.org/dp13259.pdf)
+[Published article (open access)](https://onlinelibrary.wiley.com/doi/10.1111/sjoe.12489) · [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fsjoe.12489&file=sjoe12489-sup-0001-supp_material.pdf) · [IZA DP (May-20)](http://ftp.iza.org/dp13259.pdf) · [Replication files](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fsjoe.12489&file=sjoe12489-sup-0002-replication_files.zip)
 
 ### Public work and private violence
 
