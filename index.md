@@ -35,13 +35,6 @@ with Haakon Gjerløw, Andreas Kotsadam, Kalle Moene & Magnus Rasmussen
 
 [Preprint](https://drive.google.com/file/d/1fRMqq469i-MFCazlyxqpUwNn0ejEmLP0/view?usp=sharing)
 
-### The Political Competition over Life and Death - Evidence from Infant mortality in India
-
-with Kalle Moene & Lore Vandewalle
-
-*Journal of Human Resource, 2026, Forthcoming*
-
-[Preprint](https://drive.google.com/file/d/1jyTKzUxPbmiIL3KoLX9RYgURLAzYIn36/view?usp=sharing) · [Appendix](https://drive.google.com/file/d/1PJky5MY5e0Oo_j9McyPLBT-kIshrwteF/view?usp=sharing) · [Replication files](https://doi.org/10.17632/9g9gnhmgpr.1)
 
 
 
