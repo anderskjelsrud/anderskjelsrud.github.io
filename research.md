@@ -43,7 +43,7 @@ with Haakon Gjerløw, Andreas Kotsadam, Kalle Moene & Magnus Rasmussen
 
 *Journal of Economic History, 2026*
 
-[Preprint](https://drive.google.com/file/d/1fRMqq469i-MFCazlyxqpUwNn0ejEmLP0/view?usp=sharing) · [Print](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/strikes-and-machines-investments-in-the-norwegian-interwarperiod/D7A32028AAE5C1973E6487D5732F2920)
+[Preprint](https://drive.google.com/file/d/1fRMqq469i-MFCazlyxqpUwNn0ejEmLP0/view?usp=sharing) · [Published article](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/strikes-and-machines-investments-in-the-norwegian-interwarperiod/D7A32028AAE5C1973E6487D5732F2920)
 
 ### The Political Competition over Life and Death - Evidence from Infant mortality in India
 
