@@ -51,7 +51,7 @@ with Kalle Moene & Lore Vandewalle
 
 *Journal of Human Resource, Published online June, 2024, Forthcoming*
 
-[Appendix](https://drive.google.com/file/d/1PJky5MY5e0Oo_j9McyPLBT-kIshrwteF/view?usp=sharing) · [Preprint](https://drive.google.com/file/d/1jyTKzUxPbmiIL3KoLX9RYgURLAzYIn36/view?usp=sharing) · [Replication files](https://doi.org/10.17632/9g9gnhmgpr.1)
+[Published article](https://doi.org/10.3368/jhr.0723-13002R2) · [Appendix](https://drive.google.com/file/d/1PJky5MY5e0Oo_j9McyPLBT-kIshrwteF/view?usp=sharing) · [Preprint](https://drive.google.com/file/d/1jyTKzUxPbmiIL3KoLX9RYgURLAzYIn36/view?usp=sharing) · [Replication files](https://doi.org/10.17632/9g9gnhmgpr.1)
 
 ### Wheels of Power: Can free bicycles for schoolgirls free their mothers?
 
