@@ -59,7 +59,7 @@ with Shabana Mitra & Kalle Moene
 
 *Economic Development and Cultural Change, 2024*
 
-[Preprint](https://drive.google.com/file/d/1drpxF3n5QblTFFmuOjZquRKGfQXJOtZ1/view?usp=sharing) · [Appendix](https://drive.google.com/file/d/1r6GvaHTy0iG-_XtAKR5Mnc_IZgeMoDji/view?usp=sharing) · [Replication files](https://doi.org/10.7910/DVN/NMK9OL)
+[Published article](https://www.sciencedirect.com/org/science/article/abs/pii/S0013007924000425) · [Preprint](https://drive.google.com/file/d/1drpxF3n5QblTFFmuOjZquRKGfQXJOtZ1/view?usp=sharing) · [Appendix](https://drive.google.com/file/d/1r6GvaHTy0iG-_XtAKR5Mnc_IZgeMoDji/view?usp=sharing) · [Replication files](https://doi.org/10.7910/DVN/NMK9OL)
 
 ### Female employment and voter turnout - Evidence from India
 
