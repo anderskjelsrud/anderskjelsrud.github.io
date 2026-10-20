@@ -5,7 +5,7 @@ title: Home
 
 
 <div class="introduction">
-<p>I am a Professor of Economics at Oslo Business School (OsloMet), and Professor II at the <a href="https://www.usn.no/english/">University of South-Eastern Norway</a> (USN).</p>
+<p>I am a Professor of Economics at Oslo Business School (OsloMet), and Professor II at the University of South-Eastern Norway (USN).</p>
 <p>PhD in Economics, University of Oslo, 2015.</p>
 </div>
 
@@ -45,4 +45,4 @@ with Haakon Gjerløw, Andreas Kotsadam, Kalle Moene & Magnus Rasmussen
 [anderskjelsrud@gmail.com](mailto:anderskjelsrud@gmail.com)  
 [+47 932 66 338](tel:+4793266338)
 
-[Curriculum vitae](/assets/anders-kjelsrud-cv.pdf)
+[Curriculum vitae](/cv.html)
