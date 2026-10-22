@@ -4,9 +4,12 @@ title: Home
 ---
 
 
-<div class="introduction">
+<div class="introduction home-introduction">
+<div class="introduction-text">
 <p>I am a Professor of Economics at Oslo Business School (OsloMet), and Professor II at the University of South-Eastern Norway (USN).</p>
 <p>PhD in Economics, University of Oslo, 2015.</p>
+</div>
+<img class="profile-photo" src="/assets/anders-kjelsrud.jpg" alt="Portrait of Anders Kjelsrud" width="133" height="200">
 </div>
 
 ## Recent publications
